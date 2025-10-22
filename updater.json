@@ -2,7 +2,7 @@
   "version": "1.0.7",
   "files": [
     "scripts/commands/song.js",
-    "main/config/api.json"
+    "scripts/commands/video.js"
   ],
   "reinstallDependencies": true
 }
