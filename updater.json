@@ -1,8 +1,7 @@
 {
   "version": "1.0.8",
   "files": [
-    "scripts/commands/song.js",
-    "scripts/commands/video.js"
+    "scripts/commands/song.js"
   ],
   "reinstallDependencies": true
 }
