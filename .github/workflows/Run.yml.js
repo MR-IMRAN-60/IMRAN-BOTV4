@@ -1,17 +1,26 @@
-module.exports.config = {
-  name: "example",
-  version: "1.0.0",
-  permission: 0,
-  credits: "IMRAN",
-  description: "An example command",
-  prefix: true,
-  category: "utility",
-  usages: "example [args]",
-  cooldowns: 5,
-  premium: false,
-  dependencies: {}
-};
+name: AFRAN-BOT
 
-module.exports.run = async ({ api, event, args }) => {
-  api.sendMessage("Hello from example command!", event.threadID);
-};
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: AFRAN-BOT
+        run: npm start
