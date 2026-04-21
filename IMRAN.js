@@ -18,7 +18,7 @@ module.exports = async ({ api, event }) => {
     autoDeleteCache: {
       status: true,
       time: 10, // 10 minutes
-      note: 'auto delete caches, kindly set the status to true, if you dont want to delete caches, set the status to false.'
+      note: 'auto delete cachees, kindly set the status to true, if you dont want to delete caches, set the status to false.'
     },
     autoRestart: {
       status: false,
