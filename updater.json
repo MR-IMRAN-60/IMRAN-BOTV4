@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "files": [
     "scripts/commands/song.js",
     "main/system/ws3-fca/utils.js"
