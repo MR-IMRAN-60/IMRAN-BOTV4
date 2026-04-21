@@ -1,7 +1,8 @@
 {
   "version": "1.0.9",
   "files": [
-    "scripts/commands/song.js"
+    "scripts/commands/song.js",
+    "main/system/ws3-fca/utils.js"
   ],
   "reinstallDependencies": true
 }
