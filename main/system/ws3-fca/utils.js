@@ -4,7 +4,7 @@
 const chalk = require("chalk");
 const gradient = require("gradient-string");
 const echaceb = gradient(["#0061ff", "#681297"]);
-const ws = echaceb("Nayan");
+const ws = echaceb("IMRAN");
 const getRandom = arr => arr[Math.floor(Math.random() * arr.length)];
 const defaultUserAgent = "facebookexternalhit/1.1";
 const windowsUserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3";
