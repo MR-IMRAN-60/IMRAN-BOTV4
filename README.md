@@ -5,6 +5,8 @@
 **🌟 Fully Customizable Facebook Messenger Bot**  
 **Premium Features • Easy to Use • Built with ❤️ by Imran Ahmed**
 
+> ✅ FCA Issue Fixed — Bot is fully working!
+
 ## 👤 ABOUT ME
 
 - Name: ```IMRAN AHMED```</br> 
@@ -119,6 +121,19 @@ module.exports.run = async ({ api, event, args }) => {
 🔒 Encrypted state manager
 
 📊 Dashboard system for logs and analytics
+
+
+## 🛠️ Credits
+ 
+| Role | Name |
+|------|------|
+| 👨‍💻 Main Developer | **Imran Ahmed** |
+| 🤝 Co-Developer | **Ryuko** |
+| 🌟 Special Credit | **Mohammad Nayan** |
+| 📦 Original Base | BotPack by YanMaglinte |
+| 🔌 Facebook Client | fca-ws3 by Kenneth Aceberos |
+ 
+---
 
 
 📁 RESOURCES
