@@ -6,13 +6,13 @@
   "premium": false,
   "BOTNAME": "imran",
   "EMAIL": "yourmail@gmail.com",
-  "PREFIX": "-",
+  "PREFIX": ",",
   "OPERATOR": [
     "",
     "100091459940475"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "100049763741416"
   ],
   "OWNER": ["100004160441215"],
   "disabledcmds": [],
