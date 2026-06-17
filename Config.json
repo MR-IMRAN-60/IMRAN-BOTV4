@@ -1,20 +1,20 @@
 {
-  "author": "IMRAN",
+  "author": "Arthur",
   "developermode": false,
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "imran",
-  "EMAIL": "yourmail@gmail.com",
-  "PREFIX": "-",
+  "BOTNAME": "Tessia Erelith",
+  "EMAIL": "arnob4833@gmail.com",
+  "PREFIX": ".",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "61578783300225"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "61578783300225"
   ],
-  "OWNER": ["100004160441215"],
+  "OWNER": ["61578783300225"],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "Don’t change owner uid or author name"
